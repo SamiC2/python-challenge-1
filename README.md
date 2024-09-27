@@ -5,4 +5,4 @@ The second module challenge for the Columbia AI Bootcamp. I found the challenge 
 
 To run, please run the following command in terminal/command line once cloned into the repo:
 
-``python menu.py`` 
+`` python menu.py ``
