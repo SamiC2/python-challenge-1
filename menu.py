@@ -236,4 +236,5 @@ for order in order_list:
 # and print the prices.
 
 total_cost_order = sum([float(order["Price"]) * int(order["Quantity"]) for order in order_list])
-print(f"Your total order cost is: ${total_cost_order}")
+print(f"\n Your total order cost is: ${total_cost_order}")
+print("\n Thank you for ordering, please enjoy! \n")
